@@ -1,2 +1,2 @@
 # story2
-hi
+hihello world
